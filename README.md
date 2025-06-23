@@ -1,4 +1,4 @@
-Dessert Clicker app
+# Dessert Clicker app
 
 
 Nama           : Frederick Yonatan Susanto
